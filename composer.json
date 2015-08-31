@@ -1,16 +1,16 @@
 {
-  "name": "rhsu14/testest",
+  "name": "rhsu14/zuid_client_service",
   "require": {
-    "rhsu14/testest": "dev-master"
+    "rhsu14/zuid_client_service": "dev-master"
   },
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/rhsu14/testest"
+      "url": "https://github.com/rhsu14/zuid_client_service"
     }
   ],
   "autoload": {
-    "psr-4": {"testest\\": "/"}
+    "psr-4": {"zuid_client_service\\": "rob/"}
   }
 }
 
