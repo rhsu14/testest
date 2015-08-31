@@ -1,5 +1,5 @@
-<?php
-  require_once('User.php');
-  $test = new User();
-  echo $test->get_test();
+<?php    
+  require("../vendor/autoload.php");
+  $GetZuid = new testest\GetZuid();
+  $EncodedZuid = new testest\EncodedZuid("X1-ZUz9zqy7rkbj0p_94p27");
 ?>
