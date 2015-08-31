@@ -1,9 +1,17 @@
 {
   "name": "rhsu14/testest",
   "require": {
-    "monolog/monolog": "1.0.*"
+    "rhsu14/testest": "dev-master"
   },
-  "version": "1.0.0"
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/rhsu14/testest"
+    }
+  ],
+  "autoload": {
+    "psr-4": {"testest\\": "/"}
+  }
 }
 
 
