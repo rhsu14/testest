@@ -10,8 +10,8 @@
     }
   ],
   {
-    "version": "dev-master",
-  }
+    "version": "dev-master"
+  },
   "autoload": {
     "psr-4": {"zuid_client_service\\": "rob/"}
   }
