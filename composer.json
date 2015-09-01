@@ -9,9 +9,7 @@
       "url": "https://github.com/rhsu14/zuid_client_service"
     }
   ],
-  {
-    "version": "dev-master"
-  },
+  "version": "dev-master",
   "autoload": {
     "psr-4": {"zuid_client_service\\": "rob/"}
   }
