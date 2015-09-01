@@ -5,7 +5,7 @@
  * Date: 8/31/15
  * Time: 11:45 AM
  */
-
+namespace Trulia\Zuid;
 class EncryptedZuid {
     private $encrypted_zuid;
 

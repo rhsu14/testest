@@ -1,17 +1,10 @@
 {
-  "name": "rhsu14/zuid_client_service",
+  "name": "trulia/zuid_client_service",
   "require": {
-    "rhsu14/zuid_client_service": "dev-master"
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/rhsu14/zuid_client_service"
-    }
-  ],
   "version": "dev-master",
   "autoload": {
-    "psr-4": {"zuid_client_service\\": "rob/"}
+    "psr-4": {"Trulia\\Zuid\\": "src/"}
   }
 }
 

@@ -5,6 +5,7 @@
  * Date: 8/31/15
  * Time: 1:36 PM
  */
+namespace Trulia\Zuid;
 
 class EncodedCookieToZuid {
   public function convert(EncodedZuid $encodedZuid)

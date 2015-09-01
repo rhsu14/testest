@@ -5,7 +5,7 @@
  * Date: 8/31/15
  * Time: 11:46 AM
  */
-
+namespace Trulia\Zuid;
 class GetZuid {
     private $encryptedToZuid;
     private $encodedToZuid;

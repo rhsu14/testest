@@ -1,6 +1,6 @@
 <?php
 /**what is this? name of encoded zuid, where to find it, what we expect provided by user*/
-
+namespace Trulia\Zuid;
 class EncodedZuid {
     private $cookie_string;
 
